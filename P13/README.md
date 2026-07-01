@@ -5,7 +5,7 @@ Folder ini berisi tugas mata kuliah **Keamanan Informasi** mengenai penyusunan *
 
 ## Isi Folder
 
-- **Dokumen_Standar_Keamanan_Informasi_Folder_Tugas_Kuliah.pdf**  
+- **Dokumen_Standar_Keamanan_Informasi_Folder_Tugas_Kuliah_Lengkap.pdf**  
   Berisi dokumen standar keamanan informasi, SOP pengelolaan folder tugas kuliah, analisis risiko, dan penutup.
 
 ## Tujuan
