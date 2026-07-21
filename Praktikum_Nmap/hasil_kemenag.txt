@@ -1,0 +1,24 @@
+# Nmap 7.99 scan initiated Tue Jul 21 11:12:34 2026 as: nmap -sV -O -oN hasil_kemenag.txt www.kemenag.go.id
+Nmap scan report for www.kemenag.go.id (103.7.13.243)
+Host is up (0.014s latency).
+Not shown: 986 filtered tcp ports (no-response)
+PORT     STATE  SERVICE       VERSION
+53/tcp   open   tcpwrapped
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+82/tcp   closed xfer
+83/tcp   closed mit-ml-dev
+84/tcp   closed ctf
+113/tcp  closed ident
+443/tcp  closed https
+2099/tcp closed h2250-annex-g
+8093/tcp closed unknown
+9000/tcp closed cslistener
+9001/tcp closed tor-orport
+9002/tcp closed dynamid
+9003/tcp closed unknown
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Jul 21 11:12:53 2026 -- 1 IP address (1 host up) scanned in 19.46 seconds

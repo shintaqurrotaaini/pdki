@@ -1,0 +1,15 @@
+# Nmap 7.99 scan initiated Tue Jul 21 11:13:45 2026 as: nmap -sV -O -oN hasil_nasa.txt www.nasa.gov
+Nmap scan report for www.nasa.gov (192.0.66.108)
+Host is up (0.026s latency).
+Other addresses for www.nasa.gov (not scanned): 2a04:fa87:fffd::c000:426c
+Not shown: 997 filtered tcp ports (no-response)
+PORT    STATE SERVICE    VERSION
+53/tcp  open  tcpwrapped
+80/tcp  open  http       nginx
+443/tcp open  ssl/http   nginx
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: IPCop 2.0 (Linux 2.6.32) (94%), Linux 2.6.32 (94%), Linux 3.2 (94%), Linux 4.18 (94%), Linux 5.4 (94%), Tiandy NVR (94%), Linux 4.9 (92%), Synology DiskStation Manager 7.1 (92%), Linux 3.18 (92%), D-Link DSL-2890AL ADSL router (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Jul 21 11:14:13 2026 -- 1 IP address (1 host up) scanned in 28.61 seconds
